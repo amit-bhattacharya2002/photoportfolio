@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "../ModernPortfolioWithAnimation"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "../taskman/taskman"
+    }
+  ],
+  "settings": {}
+}
