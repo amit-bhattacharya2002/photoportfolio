@@ -35,11 +35,13 @@ const About = () => {
           className="flex-1 pt-36 pb-14 lg:pt-0 lg:w-auto z-10 flex flex-col justify-center items-center lg:items-start">
             <h1 className='h1'>About me</h1>
             <p className='mb-12'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quis quasi necessitatibus molestiae, corrupti laudantium quas esse dicta explicabo amet natus eius, consectetur accusamus sit commodi tempore quia est mollitia fuga nobis? Natus explicabo nam libero deleniti a quos at reiciendis fugiat odio, rerum delectus, omnis ullam quia incidunt illo!
+              Welcome! I’m Alina Lee, a professional photographer based in Los Angeles. My journey into photography began 5 years ago with a simple camera and an insatiable curiosity about the world around me. Since then, I’ve specialized in portrait photography, honing my craft to deliver stunning images that tell your unique story.
+
+
             <br />
             <br />
 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, corrupti?
+            When I’m not behind the lens, you’ll find me skiing or hiking. Let’s create something beautiful together!
             </p>
             <Link to={'/portfolio'} className='btn'>View my work</Link>
           </motion.div>
