@@ -37,11 +37,10 @@ const Portfolio = () => {
               Portfolio
             </h1>
             <p className='mb-12 max-w-sm'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quis quasi necessitatibus molestiae, corrupti laudantium quas esse dicta explicabo amet natus eius, consectetur accusamus sit commodi tempore quia est mollitia fuga nobis? Natus explicabo nam libero deleniti a quos at reiciendis fugiat odio, rerum delectus, omnis ullam quia incidunt illo!
-            <br />
+Welcome to my portfolio—a curated collection of moments that tell stories, spark emotions, and capture the beauty of life through my lens. From heartfelt weddings and striking portraits to breathtaking landscapes and vibrant events, each image is a reflection of my passion for photography and dedication to detail.            <br />
             <br />
 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, corrupti?
+  From heartfelt weddings and striking portraits to breathtaking landscapes and vibrant events, each image is a reflection of my passion for photography and dedication to detail.
             </p>
 
             <Link to={'/contact'} className='btn mb-[30px] mx-auto lg:mx-0'>
